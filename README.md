@@ -1,4 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
+# NAME:PRASANNA I
+# REG NO:212223220079
 
 ## Aim: 
 To perform a study on Socket Programming
