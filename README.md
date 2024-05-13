@@ -82,10 +82,10 @@ s.send("acknowledgement recived from the server".encode())
 ```
 ## OUTPUT
 client
-![Screenshot 2024-04-29 135901](https://github.com/prasanna2006I/SocketStudy/assets/150161282/55538260-0abf-4bc1-a896-8b9dc8af55c4)
-server
-![Screenshot 2024-04-29 135928](https://github.com/prasanna2006I/SocketStudy/assets/150161282/3748a2d8-9fd8-4904-b10b-c0100b6a5aec)
+![image](https://github.com/prasanna2006I/SocketStudy/assets/150161282/924323a5-ea88-404e-bfcc-0978a8e43b3a)
 
+server
+![image](https://github.com/prasanna2006I/SocketStudy/assets/150161282/7378d460-4550-48b6-927c-50aef0ba8926)
 
 
 
